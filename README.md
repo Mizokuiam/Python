@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/Python)
+![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/Python)
+![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/Python)
+![GitHub license](https://img.shields.io/github/license/Mizokuiam/Python)
+
 <div align="center">
 <!-- Title: -->
   <a href="https://github.com/TheAlgorithms/">
